@@ -3,3 +3,40 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.LogoRIWI{
+    width: 100px;
+    height: 90px;
+}
+
+.cabecera{
+    display: flex;
+    align-items: center;
+    border-bottom: purple solid 2px;
+}
+
+.basica{
+    border: 1px solid black;
+    height: 900px;
+    margin: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.Contenedor{
+    height: 90px;
+    width: 850px;
+    margin: 20px;
+    display: flex;
+}
+
+.logos{
+    width: 100px;
+    height: 90px;
+}
+
+.textContainer{
+    height: 40%;
+    width: 50%;
+    position: relative;
+}
